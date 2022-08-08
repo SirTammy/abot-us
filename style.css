@@ -13,6 +13,10 @@ body{
     max-width: 1400px;
     margin: 0 auto;
 }
+.navbar{
+    background: #F9F9F9;
+    border-bottom: 1px solid #819ACC;
+}
 .logo{
     width: 180px;
 }
