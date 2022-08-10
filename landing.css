@@ -38,6 +38,7 @@ body {
 }
 .heroCopy {
     flex: 1;
+    order: 1;
     /* margin-right: 90px; */
 }
 
@@ -90,6 +91,7 @@ body {
     height: 600px;
     width: 400px;
     flex: 1;
+    order: 2;
 }
 .heroImg img {
     max-width: 100%;
@@ -544,7 +546,7 @@ body {
     }
 
 
-    
+
 
     .why {
         background: #F9F9F9;
